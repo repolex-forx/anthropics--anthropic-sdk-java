@@ -279,8 +279,9 @@
     {
       "@id": "https://repolex.ai/r/anthropics/anthropic-sdk-java/commit/87d86d9733f954b557c9fcb9525b32b6a5b32182",
       "git:hexsha": "87d86d9733f954b557c9fcb9525b32b6a5b32182",
-      "repolex:parseStatus": "pending",
-      "git:tagName": "v2.20.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v2.20.0",
+      "repolex:parsedAt": "2026-04-16T12:50:45.947204+00:00"
     },
     {
       "@id": "https://repolex.ai/r/anthropics/anthropic-sdk-java/commit/3014518df675e46b7fb8f57ff0c8e13a740e7b74",
