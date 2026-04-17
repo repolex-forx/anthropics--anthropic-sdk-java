@@ -1,0 +1,7 @@
+[2026-04-17T02:21:50Z] === AST ITERATION 1 START | repo=anthropics/anthropic-sdk-java sha=54cac60b ===
+[2026-04-17T02:21:50Z] [iter=1] PHASE START: ast repo=anthropics/anthropic-sdk-java sha=54cac60b
+[2026-04-17T02:21:50Z] [iter=1] Building AST aggregate chunks
+[2026-04-17T02:36:41Z] [iter=1] AST chunks built count=2 triples=9656906
+[2026-04-17T02:36:41Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/54cac60b023569ca3c0e56d0f9a741baea071ad0/.complete
+[2026-04-17T02:36:41Z] [iter=1] PHASE END: ast elapsed_s=891 elapsed_min=14.9
+[2026-04-17T02:36:41Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
