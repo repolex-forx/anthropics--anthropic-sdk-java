@@ -1,9 +1,8 @@
 {
   "next_action": "enrich",
-  "phase_completed": "ast",
+  "phase_completed": "enrich_checkpoint",
   "commit_sha": "7fd04e1e2170f459a7633cea7afa1e0e3da37c4e",
-  "ts": "2026-04-18T13:45:16Z",
-  "chunks": 2,
-  "triples": 7757450,
-  "skip_lsp": false
+  "ts": "2026-04-18T17:51:57Z",
+  "files_completed": 51,
+  "call_targets_resolved": 4508
 }
